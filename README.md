@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Serbia, covering official tourism portals, rail networks, regional heritage guides, national parks, and digital nomad options.
 
+Serbia is a dynamic Southeastern European destination situated at the crossroads of Central and Southeast Europe, known for its vibrant river confluence capitals, fortress history, and mountain reserves. This list is intended for cultural explorers, music festival attendees, digital nomads, and road-trip travelers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
